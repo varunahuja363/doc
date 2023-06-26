@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "total": "5",
+      "cards": [
+        {
+          "id": "1",
+          "url": "https://tlr.stripocdn.email/content/guids/CABINET_ee919ed16c3768852007d85203ffb61a/images/64061593778134375.png"
+        },
+        {
+          "id": "2",
+          "url": "https://tlr.stripocdn.email/content/guids/CABINET_ee919ed16c3768852007d85203ffb61a/images/3551593778134360.png"
+        },
+        {
+          "id": "3",
+          "url": "https://tlr.stripocdn.email/content/guids/CABINET_ee919ed16c3768852007d85203ffb61a/images/4521593778134419.png"
+        },
+        {
+          "id": "4",
+          "url": "https://tlr.stripocdn.email/content/guids/CABINET_ee919ed16c3768852007d85203ffb61a/images/10771593778134378.png"
+        },
+        {
+          "id": "5",
+          "url": "https://tlr.stripocdn.email/content/guids/CABINET_ee919ed16c3768852007d85203ffb61a/images/86021593778134403.png"
+        }
+      ]
+    }
+  ]
+}
